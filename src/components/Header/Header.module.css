@@ -1,0 +1,18 @@
+.heading {
+    padding: 2rem;
+    text-align: center;
+    font-weight: 900;
+    font-size: 2rem;
+    color: rgb(36, 171, 180);
+}
+
+.light {
+    font-weight: 600;
+    color: #222831;
+}
+
+.reloadButton{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
