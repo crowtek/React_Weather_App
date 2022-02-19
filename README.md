@@ -20,12 +20,15 @@
 ## About The Project
 
 This Project was my first time working with React, I made sure that I really understood the code. <br>
-It was a lot of fun and i really look forward for my next React Rroject 
-<br><br>
+I learnt about Api usage, data manipulation, how to use Hooks in ReactJS, how to create your own custom ones too. <br>
+It was challenging because it was a lot at once, but thanks to the slow introduction and the great guidance, it worked. <br><br>
+It was a lot of fun and i really look forward for my next React Rroject <br>
+
+<br>
 
 
-![pic2](https://user-images.githubusercontent.com/57542570/154820731-4b4ec393-75f8-4eb0-8b18-adae43523e72.png)
-
+![pic2](https://user-images.githubusercontent.com/57542570/154820731-4b4ec393-75f8-4eb0-8b18-adae43523e72.png) <br>
+https://www.youtube.com/watch?v=qsSCfN-PZF4&t=155s
 
 
 ### Built With
@@ -39,7 +42,7 @@ It was a lot of fun and i really look forward for my next React Rroject
 
 ### Feature
 
-I made this Project Mobile First and made it fully responsive. <br> <br>
+The App is also Responsiv  <br> <br>
 
 ![pic3](https://user-images.githubusercontent.com/57542570/154820900-b236cf34-c1c9-4880-8f3f-5b57d9663ce3.png)
 
