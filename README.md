@@ -7,6 +7,7 @@
 
 <br><br>
 
+![pic1](https://user-images.githubusercontent.com/57542570/154820706-9cea42e0-f92c-46f1-a47f-e399238f1a27.jpg)
 
 
 
@@ -18,11 +19,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I have used Gulp and a Sass Boilerplate for this Project. <br><br>
-I exchanged @import for @use and @forward and I also <br>
-went more into Sass featuresand replaced media querys with Sass variables. <br><br>
+This Project was my first time working with React, I made sure that I really understood the code. <br>
+It was a lot of fun and i really look forward for my next React Rroject 
+<br><br>
 
 
+![pic2](https://user-images.githubusercontent.com/57542570/154820731-4b4ec393-75f8-4eb0-8b18-adae43523e72.png)
 
 
 
@@ -37,9 +39,9 @@ went more into Sass featuresand replaced media querys with Sass variables. <br><
 
 ### Feature
 
-I made this project Mobile First and made it fully responsive with Flexbox, Grid and Media Querys. <br> <br>
-![pic1](https://user-images.githubusercontent.com/57542570/154726904-9ffd9114-8703-4fd7-ab4a-dbe23598cf27.png)
-![pic2](https://user-images.githubusercontent.com/57542570/154726920-a356ef46-595d-4bc7-a4e1-a4ea09573415.png)
+I made this Project Mobile First and made it fully responsive. <br> <br>
+
+![pic3](https://user-images.githubusercontent.com/57542570/154820900-b236cf34-c1c9-4880-8f3f-5b57d9663ce3.png)
 
 
 <!-- CONTACT -->
