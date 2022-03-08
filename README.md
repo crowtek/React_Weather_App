@@ -1,6 +1,6 @@
 # React_Weather_App
 
-## A easy Project in which I made a Weather App from a Toturial in React.
+## A small Project in which I made a Weather App from a Toturial in React.
 
 
 
